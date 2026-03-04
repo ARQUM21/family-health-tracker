@@ -29,7 +29,7 @@ app.use('/api/vitals', vitalsRouter);
 app.use('/api/ai', aiRouter);
 
 app.get("/", (req, res) => {
-  res.send("HealthMate Backend Chal Raha Hai! 🚀");
+  res.send("HealthMate Backend started");
 });
 
 app.listen(port, () => console.log('Server Started', port))
