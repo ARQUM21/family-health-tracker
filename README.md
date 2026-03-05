@@ -18,7 +18,7 @@
 ### 🔐 Auth Pages
 | Login | Sign Up |
 |-------|---------|
-| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) |
+| ![Login](screenshots/healthlogin.PNG) | ![Signup](screenshots/signup.png) |
 
 ### 🏠 Landing Page
 ![Landing](screenshots/landing.png)
