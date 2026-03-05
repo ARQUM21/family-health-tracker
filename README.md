@@ -36,7 +36,7 @@
 ![Analyze](screenshots/healthanalyze.PNG)
 
 ### 💓 Add Vital
-![Vitals](screenshots/healthaddvital.PNG)
+![Vitals](screenshots/healthaddvitals.PNG)
 
 ---
 
