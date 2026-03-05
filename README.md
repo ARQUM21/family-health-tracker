@@ -13,13 +13,6 @@
 
 ---
 
-## 🌟 Live Demo
-
-- 🖥️ **Frontend:** [family-health-tracker.vercel.app](https://family-health-tracker.vercel.app)
-- ⚙️ **Backend API:** [family-health-tracker-api.vercel.app](https://family-health-tracker-api.vercel.app)
-
----
-
 ## 📸 Screenshots
 
 ### 🔐 Auth Pages
